@@ -1,0 +1,85 @@
+# Java
+*.class
+*.jar
+*.war
+*.rar
+*.zip
+*.tar.gz
+
+# Maven
+target/
+.m2/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+*.egg-info
+dist
+build
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.iml
+.DS_Store
+.AppleDouble
+.LSOverride
+*.log
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# NetBeans
+nb-configuration.xml
+.nb-gradle/
+
+# Gradle
+.gradle
+gradle-app.setting
+!gradle-wrapper.jar
+gradle-wrapper.properties
+
+# JetBrains
+*.iws
+*.ipr
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Uploads
+uploads/
+
+# Database
+*.sql
+!DATABASE_SETUP.sql
+
+# Build
+.mvn/
+mvnw
+mvnw.cmd
+*.lock
+
+# Temp
+*.tmp
+*.temp
+temp/
